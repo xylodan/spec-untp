@@ -38,11 +38,11 @@ If you are going to be a regular contributor and/or you want to propose more sig
 
 The UNTP website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator. 
 
-> *Note: You can copy code snipets below and paste them to your terminal, just remove `$` sign, that indicates that those are commands to execute in a terminal*
+> *Note: You can copy code snippets below and paste them to your terminal, just remove `$` sign, that indicates that those are commands to execute in a terminal*
 
 To run it locally:
 
-1. if you don't already have node.js and NPM isnatlled then install them using the [Node Installer](https://nodejs.org/en/download/prebuilt-installer) - select the "prebuilt installer" and chose the right optoins for your mac or pc.
+1. if you don't already have node.js and NPM installed then install them using the [Node Installer](https://nodejs.org/en/download/prebuilt-installer) - select the "prebuilt installer" and chose the right options for your mac or pc.
 2. Open your command line / terminal window. On Mac you'll find it in `Applications`->`Utilities`->`Terminal`.
 3. Find the GitHub folder that has the cloned UNTP repository you created as described in the [complex changes](#more-complex-changes) section. Hint `ls` command will list the files in the current folder and `cd someFolder` will move you to that folder. `cd ..` will move you back up a folder level. Use `ls` and `cd` till you are in the `website` folder of the UNTP repository.
 ```
