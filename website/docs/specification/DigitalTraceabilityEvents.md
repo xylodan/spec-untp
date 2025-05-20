@@ -87,7 +87,7 @@ The [UNTP Digital Traceability Events Vocabulary](https://jargon.sh/user/unece/t
 
 ### Verifiable Credential
 
-Digital Traceability Events are issued as Vierifiable credentials.  Note that one UNTP Digital Traceability Event credential may contain multiple events.
+Digital Traceability Events are issued as Verifiable credentials.  Note that one UNTP Digital Traceability Event credential may contain multiple events.
 
 Please refer to [DPP VC Guidance](DigitalProductPassport.md#verifiable-credential) for information about the use of the verifiable credentials data model for UNTP.
 
